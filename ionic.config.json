@@ -1,0 +1,7 @@
+{
+  "name": "TallerFB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
