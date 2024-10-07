@@ -1,0 +1,7 @@
+{
+  "name": "FBtaller",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
